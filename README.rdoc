@@ -1,5 +1,7 @@
 == README
 
+3.7 Readme exercise - This app is about learning Rails and Github
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
